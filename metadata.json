@@ -1,0 +1,6 @@
+{
+  "name": "ReelSnap",
+  "description": "YouTube URL থেকে এক ক্লিকেই ভাইরাল রিল ও শর্টস তৈরি ও কাস্টমাইজ করুন - AI হাইলাইটস, ৯:১৬ ক্রপিং ও ক্যাপশন স্টুডিও",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
